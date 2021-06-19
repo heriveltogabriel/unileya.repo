@@ -1,3 +1,5 @@
+*
+!Dockerfile
 # Local .terraform directories
 **/.terraform/*
 
